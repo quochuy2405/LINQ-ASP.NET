@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<Object>
+    <h2>Đếm số Product của từng Category (CatagoryName, QuantityPro)</h2>
+<table border="">
+    <tr>
+
+    <th>CategoryName</th>
+    <th>QuantityPro</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.GetType().GetProperty("CategoryName").GetValue(item, null)</td>
+            <td>@item.GetType().GetProperty("QuantityPro").GetValue(item, null)</td>
+
+        </tr>
+
+    }
+</table>

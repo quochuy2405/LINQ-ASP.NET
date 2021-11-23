@@ -5727,11 +5727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BUIQUOCHUY\\Desktop\\THUC HANH c\\ThucHanhTuan5\\ThucHanhTuan5.csproj",
+      "projectUniqueName": "C:\\Users\\BUIQUOCHUY\\Desktop\\THUC HANH C#\\ThucHanhTuan5\\ThucHanhTuan5.csproj",
       "projectName": "ThucHanhTuan5",
-      "projectPath": "C:\\Users\\BUIQUOCHUY\\Desktop\\THUC HANH c\\ThucHanhTuan5\\ThucHanhTuan5.csproj",
+      "projectPath": "C:\\Users\\BUIQUOCHUY\\Desktop\\THUC HANH C#\\ThucHanhTuan5\\ThucHanhTuan5.csproj",
       "packagesPath": "C:\\Users\\BUIQUOCHUY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BUIQUOCHUY\\Desktop\\THUC HANH c\\ThucHanhTuan5\\obj\\",
+      "outputPath": "C:\\Users\\BUIQUOCHUY\\Desktop\\THUC HANH C#\\ThucHanhTuan5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BUIQUOCHUY\\AppData\\Roaming\\NuGet\\NuGet.Config",
